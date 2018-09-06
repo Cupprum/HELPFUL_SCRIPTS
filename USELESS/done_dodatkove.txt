@@ -1,0 +1,24 @@
+Dodatkové tabuľky|316|Úsek platnosti 
+Dodatkové tabuľky|317|Celková hmotnosť
+Dodatkové tabuľky|318|Smerová šípka
+Dodatkové tabuľky|319|Začiatok úseku platnosti
+Dodatkové tabuľky|320|Priebeh úseku platnosti
+Dodatkové tabuľky|321|Koniec úseku platnosti
+Dodatkové tabuľky|322|Nepriaznivé poveternostné podmienky
+Dodatkové tabuľky|323|Druh vozidla
+Dodatkové tabuľky|324|Tvar kríženia cesty so železničnou dráhou
+Dodatkové tabuľky|325|Dodatková tabuľka s textom
+Dodatkové tabuľky|326|Dodatková tabuľka s textom, časové ohraničenie
+Dodatkové tabuľky|327|Dodatková tabuľka s textom, pracovné dni
+Dodatkové tabuľky|328|Dodatková tabuľka pre vyhradené parkovanie
+Dodatkové tabuľky|329|Kategória tunela
+Dodatkové tabuľky|330|Dodatková tabuľka na označenie vyhradeného parkovacieho miesta pre osobu so zdravotným postihnutím
+Dodatkové tabuľky|331|Povolený smer jazdy cyklistov
+Dodatkové tabuľky|332|Jazda cyklistov v protismere povolená
+Dodatkové tabuľky|333|Jazda cyklistov v oboch smeroch povolená
+Dodatkové tabuľky|334|Priečna jazda cyklistov
+Dodatkové tabuľky|335|Dĺžka úseku alebo platnosti
+Dodatkové tabuľky|336|Počet
+Dodatkové tabuľky|337|Vzdialenosť
+Dodatkové tabuľky|338|Vzdialenosť
+Dodatkové tabuľky|339|Úsek platnosti

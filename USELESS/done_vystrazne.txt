@@ -1,0 +1,42 @@
+Výstražné značky|001|Zákruta vpravo
+Výstražné značky|002|Zákruta vľavo
+Výstražné značky|003|Dvojitá zákruta, prvá vpravo
+Výstražné značky|004|Dvojitá zákruta, prvá vpravo
+Výstražné značky|005|Nebezpečné klesanie
+Výstražné značky|006|Nebezpečné stúpanie
+Výstražné značky|007|Zúžená vozovka z oboch strán
+Výstražné značky|008|Zúžená vozovka sprava
+Výstražné značky|009|Zúžená vozovka zľava
+Výstražné značky|010|Nerovnosť vozovky
+Výstražné značky|011|Spomaľovací prah
+Výstražné značky|012|Nebezpečná krajnica
+Výstražné značky|013|Nebezpečenstvo šmyku
+Výstražné značky|014|Sneh alebo poľadovica
+Výstražné značky|015|Hmla
+Výstražné značky|016|Odletujúci štrk
+Výstražné značky|017|Svetelné signály
+Výstražné značky|018|Priechod pre chodcov
+Výstražné značky|019|Chodci
+Výstražné značky|020|Deti
+Výstražné značky|021|Cyklisti
+Výstražné značky|022|Zvieratá
+Výstražné značky|023|Zver
+Výstražné značky|024|Práca
+Výstražné značky|025|Padajúce kamene
+Výstražné značky|026|Obojsmerná premávka
+Výstražné značky|027|Električka
+Výstražné značky|028|Kolóny
+Výstražné značky|029|Tunel
+Výstražné značky|030|Železničné priecestie so závorami
+Výstražné značky|031|Železničné priecestie bez závor
+Výstražné značky|032|Návestná tabuľa ľavá (240 m)
+Výstražné značky|033|Návestná tabuľa pravá (240 m)
+Výstražné značky|034|Návestná tabuľa ľavá (160 m)
+Výstražné značky|035|Návestná tabuľa pravá (160 m)
+Výstražné značky|036|Návestná tabuľa pravá (80 m)037 -
+Výstražné značky|038|Výstražný kríž pre železničné priecestie jednokoľajové
+Výstražné značky|039|Výstražný kríž pre železničné priecestie viackoľajové
+Výstražné značky|040|Lietadlá
+Výstražné značky|041|Bočný vietor
+Výstražné značky|042|Nehoda
+Výstražné značky|043|Iné nebezpečenstvo

@@ -1,0 +1,16 @@
+Značky upravujúce prednosť v jazde|044|Daj prednosť v jazde!
+Značky upravujúce prednosť v jazde|045|Stoj, daj prednosť v jazde!
+Značky upravujúce prednosť v jazde|046|Daj prednosť v jazde električke!
+Značky upravujúce prednosť v jazde|047|Križovatka
+Značky upravujúce prednosť v jazde|048|Križovatka s vedľajšou cestou
+Značky upravujúce prednosť v jazde|049|Križovatka s vedľajšou cestou (vľavo)
+Značky upravujúce prednosť v jazde|050|Križovatka s vedľajšou cestou (vpravo)
+Značky upravujúce prednosť v jazde|051|Križovatka s kruhovým objazdom
+Značky upravujúce prednosť v jazde|052|Hlavná cesta
+Značky upravujúce prednosť v jazde|053|Koniec hlavnej cesty
+Značky upravujúce prednosť v jazde|054|Prednosť protiidúcich vozidiel
+Značky upravujúce prednosť v jazde|055|Prednosť pred protiidúcimi vozidlami
+Značky upravujúce prednosť v jazde|056|Tvar križovatky
+Značky upravujúce prednosť v jazde|057|Tvar križovatky
+Značky upravujúce prednosť v jazde|058|Tvar križovatky
+Značky upravujúce prednosť v jazde|059|Tvar dvoch križovatiek

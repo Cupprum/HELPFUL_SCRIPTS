@@ -1,0 +1,41 @@
+Vodorovné dopravné značky|340|Cyklistická smerová šípka
+Vodorovné dopravné značky|341|Cyklistická smerová šípka
+Vodorovné dopravné značky|342|Pozdĺžna súvislá čiara
+Vodorovné dopravné značky|343|Dvojitá pozdĺžna súvislá čiara
+Vodorovné dopravné značky|344|Pozdĺžna prerušovaná čiara
+Vodorovné dopravné značky|345|Dvojitá pozdĺžna prerušovaná čiara
+Vodorovné dopravné značky|346|Pozdĺžna súvislá čiara doplnená prerušovanou čiarou
+Vodorovné dopravné značky|347|Vodiaca čiara
+Vodorovné dopravné značky|348|Priečna súvislá čiara
+Vodorovné dopravné značky|349|Priečna súvislá čiara so symbolom Daj prednosť v jazde!
+Vodorovné dopravné značky|350|Priečna súvislá čiara s nápisom STOP
+Vodorovné dopravné značky|351|Priestor pre cyklistov
+Vodorovné dopravné značky|352|Priechod pre chodcov
+Vodorovné dopravné značky|353|Priechod pre chodcov s vodiacim pásom pre nevidiacich
+Vodorovné dopravné značky|354|Priechod pre cyklistov
+Vodorovné dopravné značky|355|Priechod pre cyklistov primknutý k priechodu pre chodcov
+Vodorovné dopravné značky|356|Koridor pre cyklistov
+Vodorovné dopravné značky|357|Nepriame odbočenie doľava
+Vodorovné dopravné značky|358|Smerové šípky
+Vodorovné dopravné značky|359|Smerové šípky
+Vodorovné dopravné značky|360|Predbežné šípky
+Vodorovné dopravné značky|361|Predbežné šípky
+Vodorovné dopravné značky|362|Predbežné šípky
+Vodorovné dopravné značky|363|Parkovacie miesta s kolmým státím
+Vodorovné dopravné značky|364|Hmlové body
+Vodorovné dopravné značky|365|Optická psychologická brzda
+Vodorovné dopravné značky|366|Stanovište TAXI
+Vodorovné dopravné značky|367|Zastávka autobusu, trolejbusu a električky
+Vodorovné dopravné značky|368|Nápisy na vozovke
+Vodorovné dopravné značky|369|Bezpečná vzdialenosť
+Vodorovné dopravné značky|370|Parkovacie miesta so šikmým státím
+Vodorovné dopravné značky|371|Parkovacie miesta s pozdĺžnym státím
+Vodorovné dopravné značky|372|Parkovacie miesta s vyhradeným státím
+Vodorovné dopravné značky|373|Parkovacie miesta s vyhradeným státím
+Vodorovné dopravné značky|374|Parkovacie miesta s vyhradeným státím
+Vodorovné dopravné značky|375|Stanovište TAXI
+Vodorovné dopravné značky|376|Varovný pás od zastávky autobusu, trolejbusu a električky
+Vodorovné dopravné značky|377|Žltá kľukatá čiara
+Vodorovné dopravné značky|378|Žltá súvislá čiara
+Vodorovné dopravné značky|379|Žltá prerušovaná čiara
+Vodorovné dopravné značky|380|Šikmé rovnobežné čiary

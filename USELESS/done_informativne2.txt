@@ -1,0 +1,68 @@
+Informatívne smerové značky|211|Návesť pred križovatkou
+Informatívne smerové značky|212|Návesť pred križovatkou
+Informatívne smerové značky|213|Návesť pred križovatkou pre cyklistov
+Informatívne smerové značky|214|Smerová tabuľa pre cyklistov
+Informatívne smerové značky|215|Návesť pred križovatkou
+Informatívne smerové značky|216|Návesť pred križovatkou
+Informatívne smerové značky|217|Návesť pred križovatkou
+Informatívne smerové značky|218|Návesť pred križovatkou
+Informatívne smerové značky|219|Smerová tabuľa
+Informatívne smerové značky|220|Smerová tabuľa
+Informatívne smerové značky|221|Diaľková návesť
+Informatívne smerové značky|222|Diaľková návesť
+Informatívne smerové značky|223|Návesť pred križovatkou
+Informatívne smerové značky|224|Návesť pred kultúrnym alebo turistickým cieľom
+Informatívne smerové značky|225|Návesť pred kultúrnym alebo turistickým cieľom
+Informatívne smerové značky|226|Návesť pred križovatkou s obmedzením
+Informatívne smerové značky|227|Návesť pred križovatkou s obmedzením
+Informatívne smerové značky|228|Návesť pred križovatkou s obmedzením
+Informatívne smerové značky|229|Návesť pred obchádzkou
+Informatívne smerové značky|230|Smerová tabuľa
+Informatívne smerové značky|231|Smerová tabuľa
+Informatívne smerové značky|232|Smerová tabuľa
+Informatívne smerové značky|233|Smerová tabuľa združená
+Informatívne smerové značky|234|Smerová tabuľa združená
+Informatívne smerové značky|235|Smerová tabuľa jedným cieľom
+Informatívne smerové značky|236|Smerová tabuľa s dvoma cieľmi
+Informatívne smerové značky|237|Smerová tabuľa s tromi cieľmi
+Informatívne smerové značky|238|Smerová tabuľa s tromi cieľmi
+Informatívne smerové značky|239|Smerová tabuľa s jedným cieľom, príjazd na rýchlostnú cestu
+Informatívne smerové značky|240|Smerová tabuľa s jedným cieľom
+Informatívne smerové značky|241|Smerová tabuľa pre príjazd k diaľnici
+Informatívne smerové značky|242|Smerová tabuľa pre príjazd k diaľnici
+Informatívne smerové značky|243|Smerová tabuľa pre príjazd k rýchlostnej ceste
+Informatívne smerové značky|244|Smerová tabuľa k miestnemu cieľu
+Informatívne smerové značky|245|Smerová tabuľa k miestnemu cieľu
+Informatívne smerové značky|246|Smerová tabuľa k inému cieľu
+Informatívne smerové značky|247|Smerová tabuľa k turistickému cieľu
+Informatívne smerové značky|248|Smerová tabuľa k inému cieľu
+Informatívne smerové značky|249|Smerová tabuľa ku kultúrnemu cieľu
+Informatívne smerové značky|250|Smerová tabuľa na vyznačenie obchádzky
+Informatívne smerové značky|251|Smerová tabuľa na vyznačenie obchádzky
+Informatívne smerové značky|252|Trvalá obchádzková trasa
+Informatívne smerové značky|253|Diaľnica
+Informatívne smerové značky|254|Cesta I. triedy
+Informatívne smerové značky|255|Cesta I. triedy
+Informatívne smerové značky|256|Cesta II. triedy
+Informatívne smerové značky|257|Cesta III. triedy
+Informatívne smerové značky|258|Medzinárodná trasa
+Informatívne smerové značky|259|Medzinárodná trasa
+Informatívne smerové značky|260|Kilometrovník (cesta I. triedy)
+Informatívne smerové značky|261|Kilometrovník (diaľnica, s telefónom
+Informatívne smerové značky|262|Kilometrovník (diaľnica)
+Informatívne smerové značky|263|Kilometrovník
+Informatívne smerové značky|264|Kilometrovník (rýchlostná cesta)
+Informatívne smerové značky|265|Hranica samosprávneho kraja
+Informatívne smerové značky|266|Hranica samosprávneho kraja
+Informatívne smerové značky|267|Hranica okresu
+Informatívne smerové značky|268|Iný názov
+Informatívne smerové značky|269|Obec
+Informatívne smerové značky|270|Koniec obcec
+Informatívne smerové značky|271|Miestna časť obce
+Informatívne smerové značky|272|Koniec miestnej časti obce
+Informatívne smerové značky|273|Označenie začiatku obce v jazyku národnostnej menšiny
+Informatívne smerové značky|274|Označenie konca obce v jazyku národnostnej menšiny
+Informatívne smerové značky|275|Hraničný priechod
+Informatívne smerové značky|276|Hranica štátu
+Informatívne smerové značky|277|Návesť pred obchádzkou
+Informatívne smerové značky|278|Rýchlostná cesta

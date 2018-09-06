@@ -1,0 +1,53 @@
+Informatívne prevádzkové značky|158|Okruh
+Informatívne prevádzkové značky|159|Zmena smeru okruhu
+Informatívne prevádzkové značky|160|Jednosmerná premávka (vľavo)
+Informatívne prevádzkové značky|161|Jednosmerná premávka (vpravo)
+Informatívne prevádzkové značky|162|Jednosmerná premávka
+Informatívne prevádzkové značky|163|Slepá cesta
+Informatívne prevádzkové značky|164|Návesť pred slepou cestou
+Informatívne prevádzkové značky|165|Priechod pre chodcov
+Informatívne prevádzkové značky|166|Priechod pre cyklistov
+Informatívne prevádzkové značky|167|Spomaľovací prah
+Informatívne prevádzkové značky|168|Podchod alebo nadchod
+Informatívne prevádzkové značky|169|Odporúčaná rýchlosť
+Informatívne prevádzkové značky|170|Núdzová odstavná plocha
+Informatívne prevádzkové značky|171|Parkovisko
+Informatívne prevádzkové značky|172|Parkovisko, parkovacie miesta s kolmým státím
+Informatívne prevádzkové značky|173|Parkovisko, parkovacie miesta so šikmým státím
+Informatívne prevádzkové značky|174| Parkovisko, parkovacie miesta s pozdĺžnym státím
+Informatívne prevádzkové značky|175|Parkovisko, parkovacie miesta s kolmým alebo šikmým státím na chodníku
+Informatívne prevádzkové značky|176|Parkovisko, parkovacie miesta s pozdĺžnym státím na chodníku
+Informatívne prevádzkové značky|177|Parkovisko, parkovacie miesta s kolmým alebo šikmým čiastočným státím na chodníku
+Informatívne prevádzkové značky|178|Parkovisko, parkovacie miesta s pozdĺžnym čiastočným státím na chodníku
+Informatívne prevádzkové značky|179|Parkovisko parkovacie miesta s vyhradeným státím
+Informatívne prevádzkové značky|180|Parkovisko parkovacie miesta s vyhradeným státím
+Informatívne prevádzkové značky|181|Všeobecné informácie o povinnosti úhrady
+Informatívne prevádzkové značky|182|Parkovisko parkovacie miesta s vyhradeným státím
+Informatívne prevádzkové značky|183|Parkovisko, parkovacie miesta s plateným státím
+Informatívne prevádzkové značky|184|Parkovisko, parkovacie miesta s regulovaným státím
+Informatívne prevádzkové značky|185|Kryté parkovisko, parkovacia garáž alebo parkovací dom
+Informatívne prevádzkové značky|186|Parkovisko P+R
+Informatívne prevádzkové značky|187|Stanovisko polície
+Informatívne prevádzkové značky|188|Stanovisko TAXI
+Informatívne prevádzkové značky|189|Tunel
+Informatívne prevádzkové značky|190|Koniec tunela
+Informatívne prevádzkové značky|191|Rýchlostná cesta
+Informatívne prevádzkové značky|192|Koniec rýchlostnej cesty
+Informatívne prevádzkové značky|193|Diaľnica
+Informatívne prevádzkové značky|194|Koniec diaľnice
+Informatívne prevádzkové značky|195|Zóna s dopravným obmedzením
+Informatívne prevádzkové značky|196|Koniec zóny s dopravným obmedzením
+Informatívne prevádzkové značky|197|Pešia zóna
+Informatívne prevádzkové značky|198|Koniec pešej zóny
+Informatívne prevádzkové značky|199|Školská zóna
+Informatívne prevádzkové značky|200|Koniec školskej zóny
+Informatívne prevádzkové značky|201|Zóna s plateným alebo regulovaným státím
+Informatívne prevádzkové značky|202|Koniec zóny s plateným alebo regulovaným státím
+Informatívne prevádzkové značky|203|Obytná zóna
+Informatívne prevádzkové značky|204|Koniec obytnej zóny
+Informatívne prevádzkové značky|205|Úniková zóna
+Informatívne prevádzkové značky|206|Zmena miestnej úpravy
+Informatívne prevádzkové značky|207|Výstražné zariadenie vypnuté
+Informatívne prevádzkové značky|208|Hmlové body
+Informatívne prevádzkové značky|209|Bezpečná vzdialenosť
+Informatívne prevádzkové značky|210|Všeobecné informácie o dopravných obmedzeniach

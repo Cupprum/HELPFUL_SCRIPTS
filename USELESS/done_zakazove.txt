@@ -1,0 +1,44 @@
+Zákazové značky|060|Zákaz vjazdu všetkých vozidiel v oboch smeroch
+Zákazové značky|061|Zákaz vjazdu všetkých vozidiel062 -
+Zákazové značky|062|Zákaz vjazdu všetkých motorových vozidiel
+Zákazové značky|063|Zákaz vjazdu všetkých motorových vozidiel s výnimkou motocyklov bez postranného vozíka
+Zákazové značky|064|Zákaz vjazdu osobných automobilov
+Zákazové značky|065|Zákaz vjazdu nákladných automobilov
+Zákazové značky|066|Zákaz vjazdu autobusov
+Zákazové značky|067|Zákaz vjazdu motocyklov
+Zákazové značky|068|Zákaz vjazdu traktorov
+Zákazové značky|069|Zákaz vjazdu malých motocyklov
+Zákazové značky|070|Zákaz vjazdu bicyklov
+Zákazové značky|071|Zákaz vjazdu jazdcov na koňoch
+Zákazové značky|072|Zákaz vstupu chodcov
+Zákazové značky|073|Zákaz vstupu korčuliarov
+Zákazové značky|074|Zákaz vjazdu záprahových vozidiel
+Zákazové značky|075|Zákaz vjazdu ručných vozíkov
+Zákazové značky|076|Zákaz vjazdu motorových vozidiel s prívesmi
+Zákazové značky|077|Zákaz vjazdu vyznačených vozidiel
+Zákazové značky|078|Zákaz jazdy motorových vozidiel vo vzdialenosti kratšej, ako je vyznačené
+Zákazové značky|079|Zákaz vjazdu vozidiel, alebo súprav vozidiel, ktorých dĺžka presahuje vyznačenú hranicu
+Zákazové značky|080|Zákaz vjazdu vozidiel prepravujúcich nebezpečné veci
+Zákazové značky|082|Zákaz vjazdu vozidiel prepravujúcich náklad, ktorý môže spôsobiť znečistenie vody
+Zákazové značky|082|Zákaz vjazdu vozidiel, ktorých šírka presahuje vyznačenú hranicu
+Zákazové značky|083|Zákaz vjazdu vozidiel, ktorých výška presahuje vyznačenú hranicu
+Zákazové značky|084|Zákaz vjazdu vozidiel, ktorých okamžitá hmotnosť presahuje vyznačenú hranicu
+Zákazové značky|085|Koniec viacerých zákazov
+Zákazové značky|086|Zákaz vjazdu vozidiel, ktorých okamžitá hmotnosť pripadajúca na jednu nápravu presahuje vyznačenú hranicu
+Zákazové značky|087|Zákaz odbočovania vpravo
+Zákazové značky|088|Zákaz odbočovania vľavo
+Zákazové značky|089|Zákaz otáčania
+Zákazové značky|090|Zákaz predchádzania
+Zákazové značky|091|Koniec zákazu predchádzania
+Zákazové značky|092|Zákaz predchádzania pre nákladné automobily
+Zákazové značky|093|Koniec zákazu predchádzania pre nákladné automobily
+Zákazové značky|094|Najvyššia dovolená rýchlosť
+Zákazové značky|095|Koniec najvyššej dovolenej rýchlosti
+Zákazové značky|096|Iný zákaz (vzor)
+Zákazové značky|097|Povinnosť zastaviť vozidlo
+Zákazové značky|098|Zákaz zvukových výstražných znamení
+Zákazové značky|099|Koniec zákazu zvukových výstražných znamení
+Zákazové značky|100|Zákaz státia
+Zákazové značky|101|Zákaz zastavenia
+Zákazové značky|102|Zákaz státia v nepárnych dňoch
+Zákazové značky|103|Zákaz státia v párnych dňoch

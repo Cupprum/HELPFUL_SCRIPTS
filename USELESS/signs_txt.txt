@@ -1,0 +1,421 @@
+Výstražné značky
+
+001 - Zákruta vpravo
+002 - Zákruta vľavo
+003 - Dvojitá zákruta, prvá vpravo
+004 - Dvojitá zákruta, prvá vpravo
+005 - Nebezpečné klesanie
+006 - Nebezpečné stúpanie
+007 - Zúžená vozovka z oboch strán
+008 - Zúžená vozovka sprava
+009 - Zúžená vozovka zľava
+010 - Nerovnosť vozovky
+011 - Spomaľovací prah
+012 - Nebezpečná krajnica
+013 - Nebezpečenstvo šmyku
+014 - Sneh alebo poľadovica
+015 - Hmla
+016 - Odletujúci štrk
+017 - Svetelné signály
+018 - Priechod pre chodcov
+019 - Chodci
+020 - Deti
+021 - Cyklisti
+022 - Zvieratá
+023 - Zver
+024 - Práca
+025 - Padajúce kamene
+026 - Obojsmerná premávka
+027 - Električka
+028 - Kolóny
+029 - Tunel
+030 - Železničné priecestie so závorami
+031 - Železničné priecestie bez závor
+032 - Návestná tabuľa ľavá (240 m)
+033 - Návestná tabuľa pravá (240 m)
+034 - Návestná tabuľa ľavá (160 m)
+035 - Návestná tabuľa pravá (160 m)
+036 - Návestná tabuľa ľavá (80 m)
+037 - Návestná tabuľa pravá (80 m)
+038 - Výstražný kríž pre železničné priecestie jednokoľajové
+039 - Výstražný kríž pre železničné priecestie viackoľajové
+040 - Lietadlá
+041 - Bočný vietor
+042 - Nehoda
+043 - Iné nebezpečenstvo
+
+
+
+
+Značky upravujúce prednosť v jazde
+
+044 - Daj prednosť v jazde!
+045 - Stoj, daj prednosť v jazde!
+046 - Daj prednosť v jazde električke!
+047 - Križovatka
+048 - Križovatka s vedľajšou cestou
+049 - Križovatka s vedľajšou cestou (vľavo)
+050 - Križovatka s vedľajšou cestou (vpravo)
+051 - Križovatka s kruhovým objazdom
+052 - Hlavná cesta
+053 - Koniec hlavnej cesty
+054 - Prednosť protiidúcich vozidiel
+055 - Prednosť pred protiidúcimi vozidlami
+056 - Tvar križovatky
+057 - Tvar križovatky
+058 - Tvar križovatky
+059 - Tvar dvoch križovatiek
+
+
+Zákazové značky
+
+060 - Zákaz vjazdu všetkých vozidiel v oboch smeroch
+061 - Zákaz vjazdu všetkých vozidiel062 -
+062 - Zákaz vjazdu všetkých motorových vozidiel
+063 - Zákaz vjazdu všetkých motorových vozidiel s výnimkou motocyklov bez postranného vozíka
+064 - Zákaz vjazdu osobných automobilov
+065 - Zákaz vjazdu nákladných automobilov
+066 - Zákaz vjazdu autobusov
+067 - Zákaz vjazdu motocyklov
+068 - Zákaz vjazdu traktorov
+069 - Zákaz vjazdu malých motocyklov
+070 - Zákaz vjazdu bicyklov
+071 - Zákaz vjazdu jazdcov na koňoch
+072 - Zákaz vstupu chodcov
+073 - Zákaz vstupu korčuliarov
+074 - Zákaz vjazdu záprahových vozidiel
+075 - Zákaz vjazdu ručných vozíkov
+076 - Zákaz vjazdu motorových vozidiel s prívesmi
+077 - Zákaz vjazdu vyznačených vozidiel
+078 - Zákaz jazdy motorových vozidiel vo vzdialenosti kratšej, ako je vyznačené
+079 - Zákaz vjazdu vozidiel, alebo súprav vozidiel, ktorých dĺžka presahuje vyznačenú hranicu
+080 - Zákaz vjazdu vozidiel prepravujúcich nebezpečné veci
+082 - Zákaz vjazdu vozidiel prepravujúcich náklad, ktorý môže spôsobiť znečistenie vody
+082 - Zákaz vjazdu vozidiel, ktorých šírka presahuje vyznačenú hranicu
+083 - Zákaz vjazdu vozidiel, ktorých výška presahuje vyznačenú hranicu
+084 - Zákaz vjazdu vozidiel, ktorých okamžitá hmotnosť presahuje vyznačenú hranicu
+085 - Koniec viacerých zákazov
+086 - Zákaz vjazdu vozidiel, ktorých okamžitá hmotnosť pripadajúca na jednu nápravu presahuje vyznačenú hranicu
+087 - Zákaz odbočovania vpravo
+088 - Zákaz odbočovania vľavo
+089 - Zákaz otáčania
+090 - Zákaz predchádzania
+091 - Koniec zákazu predchádzania
+092 - Zákaz predchádzania pre nákladné automobily
+093 - Koniec zákazu predchádzania pre nákladné automobily
+094 - Najvyššia dovolená rýchlosť
+095 - Koniec najvyššej dovolenej rýchlosti
+096 - Iný zákaz (vzor)
+097 - Povinnosť zastaviť vozidlo
+098 - Zákaz zvukových výstražných znamení
+099 - Koniec zákazu zvukových výstražných znamení
+100 - Zákaz státia
+101 - Zákaz zastavenia
+102 - Zákaz státia v nepárnych dňoch
+103 - Zákaz státia v párnych dňoch
+
+Príkazové značky
+
+104 - Striedavé radenie (pravé)
+105 - Prikázaný smer jazdy priamo
+106 - Prikázaný smer jazdy vpravo
+107 - Prikázaný smer jazdy vpravo
+108 - Prikázaný smer jazdy vľavo
+109 - Prikázaný smer jazdy vľavo
+110 - Prikázaný smer jazdy vpravo a vľavo
+111 - Prikázaný smer jazdy priamo a vpravo
+112 - Prikázaný smer jazdy priamo a vľavo
+113 - Prikázaný smer jazdy otáčania
+114 - Prikázaný smer jazdy obchádzania vpravo
+115 - Prikázaný smer jazdy obchádzania vľavo
+116 - Prikázaný smer jazdy obchádzania vpravo a vľavo
+117 - Kruhový objazd
+118 - Cestička pre cyklistov
+119 - Cestička pre chodcov
+120 - Cestička pre korčuliarov
+121 - Cestička pre jazdcov na koňoch
+122 - Cestička pre vyznačených užívateľov
+123 - Cestička pre vyznačených užívateľov
+124 - Použiť protisklzové reťaze
+125 - Najnižšia povolená rýchlosť
+126 - Iný príkaz
+127 - Rozsvieť svetlá
+128 - Koniec cestičky pre cyklistov
+129 - Koniec cestičky pre chodcov
+ 130 - Koniec cestičky pre jazdcov na koňoch
+131 - Koniec cestičky pre korčuliarov
+132 - Koniec cestičky pre vyznačených užívateľov
+133 - Koniec cestičky pre vyznačených užívateľov
+134 - Koniec iného príkazu
+135 - Koniec najnižšej dovolenej rýchlosti
+136 - Koniec použitia protisklzových reťazí
+137 - Koniec príkazu
+138 - Prikázaný smer prepravy vyznačených vozidiel a vecí
+139 - Usporiadanie jazdných pruhov (jednosmerná premávka)
+140 - Usporiadanie jazdných pruhov (protismerná premávka)
+141 - Usporiadanie jazdných pruhov (pripojenie bez pripájacieho pruhu)
+142 - Usporiadanie jazdných pruhov (pripojenie s pripájacím pruhom)
+143 - Zvýšenie počtu jazdných pruhov
+144 - Zníženie počtu jazdných pruhov
+145 - Zvýšenie počtu jazdných pruhov pre pomalé vozidlá
+146 - Obmedzenie v jazdných pruhoch
+147 - Koniec obmedzenia v jazdných pruhoch
+148 - Vyhradený jazdný pruh
+149 - Koniec vyhradeného jazdného pruhu
+150 - Radenie jazdných pruhov pred križovatkou
+151 - Radenie jazdných pruhov pred križovatkou
+152 - Radenie jazdných pruhov pred križovatkou
+153 - Zmena smeru jazdy
+154 - Obchádzanie električky
+155 - Zmena smeru jazdy
+156 - Zmena smeru jazdy
+157 - Striedavé radenie (ľavé)
+
+Informatívne prevádzkové značky
+
+158 - Okruh
+159 - Zmena smeru okruhu
+160 - Jednosmerná premávka (vľavo)
+161 - Jednosmerná premávka (vpravo)
+162 - Jednosmerná premávka
+163 - Slepá cesta
+164 - Návesť pred slepou cestou
+165 - Priechod pre chodcov
+166 - Priechod pre cyklistov
+167 - Spomaľovací prah
+168 - Podchod alebo nadchod
+169 - Odporúčaná rýchlosť
+170 - Núdzová odstavná plocha
+171 - Parkovisko
+172 - Parkovisko, parkovacie miesta s kolmým státím
+173 - Parkovisko, parkovacie miesta so šikmým státím
+174 -  Parkovisko, parkovacie miesta s pozdĺžnym státím
+175 - Parkovisko, parkovacie miesta s kolmým alebo šikmým státím na chodníku
+176 - Parkovisko, parkovacie miesta s pozdĺžnym státím na chodníku
+177 - Parkovisko, parkovacie miesta s kolmým alebo šikmým čiastočným státím na chodníku
+178 - Parkovisko, parkovacie miesta s pozdĺžnym čiastočným státím na chodníku
+179 - Parkovisko parkovacie miesta s vyhradeným státím
+180 - Parkovisko parkovacie miesta s vyhradeným státím
+181 - Všeobecné informácie o povinnosti úhrady
+182 - Parkovisko parkovacie miesta s vyhradeným státím
+183 - Parkovisko, parkovacie miesta s plateným státím
+184 - Parkovisko, parkovacie miesta s regulovaným státím
+185 - Kryté parkovisko, parkovacia garáž alebo parkovací dom
+186 - Parkovisko P+R
+187 - Stanovisko polície
+188 - Stanovisko TAXI
+189 - Tunel
+190 - Koniec tunela
+191 - Rýchlostná cesta
+192 - Koniec rýchlostnej cesty
+193 - Diaľnica
+194 - Koniec diaľnice
+195 - Zóna s dopravným obmedzením
+196 - Koniec zóny s dopravným obmedzením
+197 - Pešia zóna
+198 - Koniec pešej zóny
+199 - Školská zóna
+200 - Koniec školskej zóny
+201 - Zóna s plateným alebo regulovaným státím
+202 - Koniec zóny s plateným alebo regulovaným státím
+203 - Obytná zóna
+204 - Koniec obytnej zóny
+205 - Úniková zóna
+206 - Zmena miestnej úpravy
+207 - Výstražné zariadenie vypnuté
+208 - Hmlové body
+209 - Bezpečná vzdialenosť
+210 - Všeobecné informácie o dopravných obmedzeniach
+
+
+Informatívne smerové značky
+
+211 - Návesť pred križovatkou
+212 - Návesť pred križovatkou
+213 - Návesť pred križovatkou pre cyklistov
+214 - Smerová tabuľa pre cyklistov
+215 - Návesť pred križovatkou
+216 - Návesť pred križovatkou
+217 - Návesť pred križovatkou
+218 - Návesť pred križovatkou
+219 - Smerová tabuľa
+220 - Smerová tabuľa
+221 - Diaľková návesť
+222 - Diaľková návesť
+223 - Návesť pred križovatkou
+224 - Návesť pred kultúrnym alebo turistickým cieľom
+225 - Návesť pred kultúrnym alebo turistickým cieľom
+226 - Návesť pred križovatkou s obmedzením
+227 - Návesť pred križovatkou s obmedzením
+228 - Návesť pred križovatkou s obmedzením
+229 - Návesť pred obchádzkou
+230 - Smerová tabuľa
+231 - Smerová tabuľa
+232 - Smerová tabuľa
+233 - Smerová tabuľa združená
+234 - Smerová tabuľa združená
+235 - Smerová tabuľa jedným cieľom
+236 - Smerová tabuľa s dvoma cieľmi
+237 - Smerová tabuľa s tromi cieľmi
+238 - Smerová tabuľa s tromi cieľmi
+239 - Smerová tabuľa s jedným cieľom, príjazd na rýchlostnú cestu
+240 - Smerová tabuľa s jedným cieľom
+241 - Smerová tabuľa pre príjazd k diaľnici
+242 - Smerová tabuľa pre príjazd k diaľnici
+243 - Smerová tabuľa pre príjazd k rýchlostnej ceste
+244 - Smerová tabuľa k miestnemu cieľu
+245 - Smerová tabuľa k miestnemu cieľu
+246 - Smerová tabuľa k inému cieľu
+247 - Smerová tabuľa k turistickému cieľu
+248 - Smerová tabuľa k inému cieľu
+249 - Smerová tabuľa ku kultúrnemu cieľu
+250 - Smerová tabuľa na vyznačenie obchádzky
+251 - Smerová tabuľa na vyznačenie obchádzky
+252 - Trvalá obchádzková trasa
+253 - Diaľnica
+254 - Cesta I. triedy
+255 - Cesta I. triedy
+256 - Cesta II. triedy
+257 - Cesta III. triedy
+258 - Medzinárodná trasa
+259 - Medzinárodná trasa
+260 - Kilometrovník (cesta I. triedy)
+261 - Kilometrovník (diaľnica, s telefónom
+262 - Kilometrovník (diaľnica)
+263 - Kilometrovník
+264 - Kilometrovník (rýchlostná cesta)
+265 - Hranica samosprávneho kraja
+266 - Hranica samosprávneho kraja
+267 - Hranica okresu
+268 - Iný názov
+269 - Obec
+270 - Koniec obcec
+271 - Miestna časť obce
+272 - Koniec miestnej časti obce
+273 - Označenie začiatku obce v jazyku národnostnej menšiny
+274 - Označenie konca obce v jazyku národnostnej menšiny
+275 - Hraničný priechod
+276 - Hranica štátu
+277 - Návesť pred obchádzkou
+278 - Rýchlostná cesta
+
+Informatívne iné značky
+
+279 - Telefón núdzového volania
+280 - Núdzové volania
+281 - Kontrola rýchlosti
+282 - Telefón
+283 - Hasiaci prístroj
+284 - Prvá pomoc
+285 - Nemocnica
+286 - Informácie
+287 - Rádio
+288 - Zastávka autobusu
+289 - Zastávka trolejbusu
+290 - Zastávka električky
+291 - Čerpacia stanica
+292 - Čerpacia stanica skvapalneného ropného plynu (LPG)
+293 - Čerpacia stanica stlačeného prírodného plynu (CNG)
+294 - Dobíjacia stanica
+295 - Opraváreň
+296 - Hotel alebo motel
+297 - Reštaurácia
+298 - Občerstvenie
+299 - WC
+300 - Odpočívadlo
+301 - Táborisko pre stany
+302 - Táborisko pre obytné prívesy
+303 - Táborisko pre stany a obytné prívesy
+304 - Pláž alebo kúpalisko
+305 - Lyžiarsky vlek
+306 - Sedačková lanovka
+307 - Kabínková lanovka
+308 - Odpočívadlo s komplexnými službami
+309 - Odpočívadlo s obmedzenými službami
+310 - Núdzový východ
+311 - Úhrada mýta
+312 - Koniec úhrady mýta
+313 - Úhrada diaľničnou nálepkou
+314 - Úniková cesta
+315 - Koniec úhrady diaľničnou nálepkou
+
+Dodatkové tabuľky
+
+316 - Úsek platnosti
+317 - Celková hmotnosť
+318 - Smerová šípka
+319 - Začiatok úseku platnosti
+320 - Priebeh úseku platnosti
+321 - Koniec úseku platnosti
+322 - Nepriaznivé poveternostné podmienky
+323 - Druh vozidla
+324 - Tvar kríženia cesty so železničnou dráhou
+325 - Dodatková tabuľka s textom
+326 - Dodatková tabuľka s textom, časové ohraničenie
+327 - Dodatková tabuľka s textom, pracovné dni
+328 - Dodatková tabuľka pre vyhradené parkovanie
+329 - Kategória tunela
+330 - Dodatková tabuľka na označenie vyhradeného parkovacieho miesta pre osobu so zdravotným postihnutím
+331 - Povolený smer jazdy cyklistov
+332 - Jazda cyklistov v protismere povolená
+333 - Jazda cyklistov v oboch smeroch povolená
+334 - Priečna jazda cyklistov
+335 - Dĺžka úseku alebo platnosti
+336 - Počet
+337 - Vzdialenosť
+338 - Vzdialenosť
+339 - Úsek platnosti
+
+Vodorovné dopravné značky
+
+340 - Cyklistická smerová šípka
+341 - Cyklistická smerová šípka
+342 - Pozdĺžna súvislá čiara
+343 - Dvojitá pozdĺžna súvislá čiara
+344 - Pozdĺžna prerušovaná čiara
+345 - Dvojitá pozdĺžna prerušovaná čiara
+346 - Pozdĺžna súvislá čiara doplnená prerušovanou čiarou
+347 - Vodiaca čiara
+348 - Priečna súvislá čiara
+349 - Priečna súvislá čiara so symbolom Daj prednosť v jazde!
+350 - Priečna súvislá čiara s nápisom STOP
+351 - Priestor pre cyklistov
+352 - Priechod pre chodcov
+353 - Priechod pre chodcov s vodiacim pásom pre nevidiacich
+354 - Priechod pre cyklistov
+355 - Priechod pre cyklistov primknutý k priechodu pre chodcov
+356 - Koridor pre cyklistov
+357 - Nepriame odbočenie doľava
+358 - Smerové šípky
+359 - Smerové šípky
+360 - Predbežné šípky
+361 - Predbežné šípky
+362 - Predbežné šípky
+363 - Parkovacie miesta s kolmým státím
+364 - Hmlové body
+365 - Optická psychologická brzda
+366 - Stanovište TAXI
+367 - Zastávka autobusu, trolejbusu a električky
+368 - Nápisy na vozovke
+369 - Bezpečná vzdialenosť
+370 - Parkovacie miesta so šikmým státím
+371 - Parkovacie miesta s pozdĺžnym státím
+372 - Parkovacie miesta s vyhradeným státím
+373 - Parkovacie miesta s vyhradeným státím
+374 - Parkovacie miesta s vyhradeným státím
+375 - Stanovište TAXI
+376 - Varovný pás od zastávky autobusu, trolejbusu a električky
+377 - Žltá kľukatá čiara
+378 - Žltá súvislá čiara
+379 - Žltá prerušovaná čiara
+380 - Šikmé rovnobežné čiary
+
+
+Navrhované dopravné značky
+
+381 - Rýchlostná cesta
+382 - Cesta pre autobusy
+383 - Koniec cesty pre autobusy
+384 - Označenie začiatku obce v jazyku národnostnej menšiny
+385 - Označenie konca obce v jazyku národnostnej menšiny
+386 - Odbočovací majáčik

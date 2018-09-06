@@ -1,0 +1,6 @@
+Navrhované dopravné značky|381|Rýchlostná cesta
+Navrhované dopravné značky|382|Cesta pre autobusy
+Navrhované dopravné značky|383|Koniec cesty pre autobusy
+Navrhované dopravné značky|384|Označenie začiatku obce v jazyku národnostnej menšiny
+Navrhované dopravné značky|385|Označenie konca obce v jazyku národnostnej menšiny
+Navrhované dopravné značky|386|Odbočovací majáčik

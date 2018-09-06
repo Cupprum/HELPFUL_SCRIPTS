@@ -1,0 +1,37 @@
+Informatívne iné značky|279|Telefón núdzového volania
+Informatívne iné značky|280|Núdzové volania
+Informatívne iné značky|281|Kontrola rýchlosti
+Informatívne iné značky|282|Telefón
+Informatívne iné značky|283|Hasiaci prístroj
+Informatívne iné značky|284|Prvá pomoc
+Informatívne iné značky|285|Nemocnica
+Informatívne iné značky|286|Informácie
+Informatívne iné značky|287|Rádio
+Informatívne iné značky|288|Zastávka autobusu
+Informatívne iné značky|289|Zastávka trolejbusu
+Informatívne iné značky|290|Zastávka električky
+Informatívne iné značky|291|Čerpacia stanica
+Informatívne iné značky|292|Čerpacia stanica skvapalneného ropného plynu (LPG)
+Informatívne iné značky|293|Čerpacia stanica stlačeného prírodného plynu (CNG)
+Informatívne iné značky|294|Dobíjacia stanica
+Informatívne iné značky|295|Opraváreň
+Informatívne iné značky|296|Hotel alebo motel
+Informatívne iné značky|297|Reštaurácia
+Informatívne iné značky|298|Občerstvenie
+Informatívne iné značky|299|WC
+Informatívne iné značky|300|Odpočívadlo
+Informatívne iné značky|301|Táborisko pre stany
+Informatívne iné značky|302|Táborisko pre obytné prívesy
+Informatívne iné značky|303|Táborisko pre stany a obytné prívesy
+Informatívne iné značky|304|Pláž alebo kúpalisko
+Informatívne iné značky|305|Lyžiarsky vlek
+Informatívne iné značky|306|Sedačková lanovka
+Informatívne iné značky|307|Kabínková lanovka
+Informatívne iné značky|308|Odpočívadlo s komplexnými službami
+Informatívne iné značky|309|Odpočívadlo s obmedzenými službami
+Informatívne iné značky|310|Núdzový východ
+Informatívne iné značky|311|Úhrada mýta
+Informatívne iné značky|312|Koniec úhrady mýta
+Informatívne iné značky|313|Úhrada diaľničnou nálepkou
+Informatívne iné značky|314|Úniková cesta
+Informatívne iné značky|315|Koniec úhrady diaľničnou nálepkou

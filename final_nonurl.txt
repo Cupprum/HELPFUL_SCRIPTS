@@ -1,0 +1,386 @@
+Výstražné značky|001|Zákruta vpravo
+Výstražné značky|002|Zákruta vľavo
+Výstražné značky|003|Dvojitá zákruta, prvá vpravo
+Výstražné značky|004|Dvojitá zákruta, prvá vpravo
+Výstražné značky|005|Nebezpečné klesanie
+Výstražné značky|006|Nebezpečné stúpanie
+Výstražné značky|007|Zúžená vozovka z oboch strán
+Výstražné značky|008|Zúžená vozovka sprava
+Výstražné značky|009|Zúžená vozovka zľava
+Výstražné značky|010|Nerovnosť vozovky
+Výstražné značky|011|Spomaľovací prah
+Výstražné značky|012|Nebezpečná krajnica
+Výstražné značky|013|Nebezpečenstvo šmyku
+Výstražné značky|014|Sneh alebo poľadovica
+Výstražné značky|015|Hmla
+Výstražné značky|016|Odletujúci štrk
+Výstražné značky|017|Svetelné signály
+Výstražné značky|018|Priechod pre chodcov
+Výstražné značky|019|Chodci
+Výstražné značky|020|Deti
+Výstražné značky|021|Cyklisti
+Výstražné značky|022|Zvieratá
+Výstražné značky|023|Zver
+Výstražné značky|024|Práca
+Výstražné značky|025|Padajúce kamene
+Výstražné značky|026|Obojsmerná premávka
+Výstražné značky|027|Električka
+Výstražné značky|028|Kolóny
+Výstražné značky|029|Tunel
+Výstražné značky|030|Železničné priecestie so závorami
+Výstražné značky|031|Železničné priecestie bez závor
+Výstražné značky|032|Návestná tabuľa ľavá (240 m)
+Výstražné značky|033|Návestná tabuľa pravá (240 m)
+Výstražné značky|034|Návestná tabuľa ľavá (160 m)
+Výstražné značky|035|Návestná tabuľa pravá (160 m)
+Výstražné značky|036|Návestná tabuľa pravá (80 m)
+Výstražné značky|037Návestná tabuľa ľavá(80 m)
+Výstražné značky|038|Výstražný kríž pre železničné priecestie jednokoľajové
+Výstražné značky|039|Výstražný kríž pre železničné priecestie viackoľajové
+Výstražné značky|040|Lietadlá
+Výstražné značky|041|Bočný vietor
+Výstražné značky|042|Nehoda
+Výstražné značky|043|Iné nebezpečenstvo
+Značky upravujúce prednosť v jazde|044|Daj prednosť v jazde!
+Značky upravujúce prednosť v jazde|045|Stoj, daj prednosť v jazde!
+Značky upravujúce prednosť v jazde|046|Daj prednosť v jazde električke!
+Značky upravujúce prednosť v jazde|047|Križovatka
+Značky upravujúce prednosť v jazde|048|Križovatka s vedľajšou cestou
+Značky upravujúce prednosť v jazde|049|Križovatka s vedľajšou cestou (vľavo)
+Značky upravujúce prednosť v jazde|050|Križovatka s vedľajšou cestou (vpravo)
+Značky upravujúce prednosť v jazde|051|Križovatka s kruhovým objazdom
+Značky upravujúce prednosť v jazde|052|Hlavná cesta
+Značky upravujúce prednosť v jazde|053|Koniec hlavnej cesty
+Značky upravujúce prednosť v jazde|054|Prednosť protiidúcich vozidiel
+Značky upravujúce prednosť v jazde|055|Prednosť pred protiidúcimi vozidlami
+Značky upravujúce prednosť v jazde|056|Tvar križovatky
+Značky upravujúce prednosť v jazde|057|Tvar križovatky
+Značky upravujúce prednosť v jazde|058|Tvar križovatky
+Značky upravujúce prednosť v jazde|059|Tvar dvoch križovatiek
+Zákazové značky|060|Zákaz vjazdu všetkých vozidiel v oboch smeroch
+Zákazové značky|061|Zákaz vjazdu všetkých vozidiel062 -
+Zákazové značky|062|Zákaz vjazdu všetkých motorových vozidiel
+Zákazové značky|063|Zákaz vjazdu všetkých motorových vozidiel s výnimkou motocyklov bez postranného vozíka
+Zákazové značky|064|Zákaz vjazdu osobných automobilov
+Zákazové značky|065|Zákaz vjazdu nákladných automobilov
+Zákazové značky|066|Zákaz vjazdu autobusov
+Zákazové značky|067|Zákaz vjazdu motocyklov
+Zákazové značky|068|Zákaz vjazdu traktorov
+Zákazové značky|069|Zákaz vjazdu malých motocyklov
+Zákazové značky|070|Zákaz vjazdu bicyklov
+Zákazové značky|071|Zákaz vjazdu jazdcov na koňoch
+Zákazové značky|072|Zákaz vstupu chodcov
+Zákazové značky|073|Zákaz vstupu korčuliarov
+Zákazové značky|074|Zákaz vjazdu záprahových vozidiel
+Zákazové značky|075|Zákaz vjazdu ručných vozíkov
+Zákazové značky|076|Zákaz vjazdu motorových vozidiel s prívesmi
+Zákazové značky|077|Zákaz vjazdu vyznačených vozidiel
+Zákazové značky|078|Zákaz jazdy motorových vozidiel vo vzdialenosti kratšej, ako je vyznačené
+Zákazové značky|079|Zákaz vjazdu vozidiel, alebo súprav vozidiel, ktorých dĺžka presahuje vyznačenú hranicu
+Zákazové značky|080|Zákaz vjazdu vozidiel prepravujúcich nebezpečné veci
+Zákazové značky|082|Zákaz vjazdu vozidiel prepravujúcich náklad, ktorý môže spôsobiť znečistenie vody
+Zákazové značky|082|Zákaz vjazdu vozidiel, ktorých šírka presahuje vyznačenú hranicu
+Zákazové značky|083|Zákaz vjazdu vozidiel, ktorých výška presahuje vyznačenú hranicu
+Zákazové značky|084|Zákaz vjazdu vozidiel, ktorých okamžitá hmotnosť presahuje vyznačenú hranicu
+Zákazové značky|085|Koniec viacerých zákazov
+Zákazové značky|086|Zákaz vjazdu vozidiel, ktorých okamžitá hmotnosť pripadajúca na jednu nápravu presahuje vyznačenú hranicu
+Zákazové značky|087|Zákaz odbočovania vpravo
+Zákazové značky|088|Zákaz odbočovania vľavo
+Zákazové značky|089|Zákaz otáčania
+Zákazové značky|090|Zákaz predchádzania
+Zákazové značky|091|Koniec zákazu predchádzania
+Zákazové značky|092|Zákaz predchádzania pre nákladné automobily
+Zákazové značky|093|Koniec zákazu predchádzania pre nákladné automobily
+Zákazové značky|094|Najvyššia dovolená rýchlosť
+Zákazové značky|095|Koniec najvyššej dovolenej rýchlosti
+Zákazové značky|096|Iný zákaz (vzor)
+Zákazové značky|097|Povinnosť zastaviť vozidlo
+Zákazové značky|098|Zákaz zvukových výstražných znamení
+Zákazové značky|099|Koniec zákazu zvukových výstražných znamení
+Zákazové značky|100|Zákaz státia
+Zákazové značky|101|Zákaz zastavenia
+Zákazové značky|102|Zákaz státia v nepárnych dňoch
+Zákazové značky|103|Zákaz státia v párnych dňoch
+Príkazové značky|104|Striedavé radenie (pravé)
+Príkazové značky|105|Prikázaný smer jazdy priamo
+Príkazové značky|106|Prikázaný smer jazdy vpravo
+Príkazové značky|107|Prikázaný smer jazdy vpravo
+Príkazové značky|108|Prikázaný smer jazdy vľavo
+Príkazové značky|109|Prikázaný smer jazdy vľavo
+Príkazové značky|110|Prikázaný smer jazdy vpravo a vľavo
+Príkazové značky|111|Prikázaný smer jazdy priamo a vpravo
+Príkazové značky|112|Prikázaný smer jazdy priamo a vľavo
+Príkazové značky|113|Prikázaný smer jazdy otáčania
+Príkazové značky|114|Prikázaný smer jazdy obchádzania vpravo
+Príkazové značky|115|Prikázaný smer jazdy obchádzania vľavo
+Príkazové značky|116|Prikázaný smer jazdy obchádzania vpravo a vľavo
+Príkazové značky|117|Kruhový objazd
+Príkazové značky|118|Cestička pre cyklistov
+Príkazové značky|119|Cestička pre chodcov
+Príkazové značky|120|Cestička pre korčuliarov
+Príkazové značky|121|Cestička pre jazdcov na koňoch
+Príkazové značky|122|Cestička pre vyznačených užívateľov
+Príkazové značky|123|Cestička pre vyznačených užívateľov
+Príkazové značky|124|Použiť protisklzové reťaze
+Príkazové značky|125|Najnižšia povolená rýchlosť
+Príkazové značky|126|Iný príkaz
+Príkazové značky|127|Rozsvieť svetlá
+Príkazové značky|128|Koniec cestičky pre cyklistov
+Príkazové značky|129|Koniec cestičky pre chodcov
+Príkazové značky| 130|Koniec cestičky pre jazdcov na koňoch
+Príkazové značky|131|Koniec cestičky pre korčuliarov
+Príkazové značky|132|Koniec cestičky pre vyznačených užívateľov
+Príkazové značky|133|Koniec cestičky pre vyznačených užívateľov
+Príkazové značky|134|Koniec iného príkazu
+Príkazové značky|135|Koniec najnižšej dovolenej rýchlosti
+Príkazové značky|136|Koniec použitia protisklzových reťazí
+Príkazové značky|137|Koniec príkazu
+Príkazové značky|138|Prikázaný smer prepravy vyznačených vozidiel a vecí
+Príkazové značky|139|Usporiadanie jazdných pruhov (jednosmerná premávka)
+Príkazové značky|140|Usporiadanie jazdných pruhov (protismerná premávka)
+Príkazové značky|141|Usporiadanie jazdných pruhov (pripojenie bez pripájacieho pruhu)
+Príkazové značky|142|Usporiadanie jazdných pruhov (pripojenie s pripájacím pruhom)
+Príkazové značky|143|Zvýšenie počtu jazdných pruhov
+Príkazové značky|144|Zníženie počtu jazdných pruhov
+Príkazové značky|145|Zvýšenie počtu jazdných pruhov pre pomalé vozidlá
+Príkazové značky|146|Obmedzenie v jazdných pruhoch
+Príkazové značky|147|Koniec obmedzenia v jazdných pruhoch
+Príkazové značky|148|Vyhradený jazdný pruh
+Príkazové značky|149|Koniec vyhradeného jazdného pruhu
+Príkazové značky|150|Radenie jazdných pruhov pred križovatkou
+Príkazové značky|151|Radenie jazdných pruhov pred križovatkou
+Príkazové značky|152|Radenie jazdných pruhov pred križovatkou
+Príkazové značky|153|Zmena smeru jazdy
+Príkazové značky|154|Obchádzanie električky
+Príkazové značky|155|Zmena smeru jazdy
+Príkazové značky|156|Zmena smeru jazdy
+Príkazové značky|157|Striedavé radenie (ľavé)
+Informatívne prevádzkové značky|158|Okruh
+Informatívne prevádzkové značky|159|Zmena smeru okruhu
+Informatívne prevádzkové značky|160|Jednosmerná premávka (vľavo)
+Informatívne prevádzkové značky|161|Jednosmerná premávka (vpravo)
+Informatívne prevádzkové značky|162|Jednosmerná premávka
+Informatívne prevádzkové značky|163|Slepá cesta
+Informatívne prevádzkové značky|164|Návesť pred slepou cestou
+Informatívne prevádzkové značky|165|Priechod pre chodcov
+Informatívne prevádzkové značky|166|Priechod pre cyklistov
+Informatívne prevádzkové značky|167|Spomaľovací prah
+Informatívne prevádzkové značky|168|Podchod alebo nadchod
+Informatívne prevádzkové značky|169|Odporúčaná rýchlosť
+Informatívne prevádzkové značky|170|Núdzová odstavná plocha
+Informatívne prevádzkové značky|171|Parkovisko
+Informatívne prevádzkové značky|172|Parkovisko, parkovacie miesta s kolmým státím
+Informatívne prevádzkové značky|173|Parkovisko, parkovacie miesta so šikmým státím
+Informatívne prevádzkové značky|174| Parkovisko, parkovacie miesta s pozdĺžnym státím
+Informatívne prevádzkové značky|175|Parkovisko, parkovacie miesta s kolmým alebo šikmým státím na chodníku
+Informatívne prevádzkové značky|176|Parkovisko, parkovacie miesta s pozdĺžnym státím na chodníku
+Informatívne prevádzkové značky|177|Parkovisko, parkovacie miesta s kolmým alebo šikmým čiastočným státím na chodníku
+Informatívne prevádzkové značky|178|Parkovisko, parkovacie miesta s pozdĺžnym čiastočným státím na chodníku
+Informatívne prevádzkové značky|179|Parkovisko parkovacie miesta s vyhradeným státím
+Informatívne prevádzkové značky|180|Parkovisko parkovacie miesta s vyhradeným státím
+Informatívne prevádzkové značky|181|Všeobecné informácie o povinnosti úhrady
+Informatívne prevádzkové značky|182|Parkovisko parkovacie miesta s vyhradeným státím
+Informatívne prevádzkové značky|183|Parkovisko, parkovacie miesta s plateným státím
+Informatívne prevádzkové značky|184|Parkovisko, parkovacie miesta s regulovaným státím
+Informatívne prevádzkové značky|185|Kryté parkovisko, parkovacia garáž alebo parkovací dom
+Informatívne prevádzkové značky|186|Parkovisko P+R
+Informatívne prevádzkové značky|187|Stanovisko polície
+Informatívne prevádzkové značky|188|Stanovisko TAXI
+Informatívne prevádzkové značky|189|Tunel
+Informatívne prevádzkové značky|190|Koniec tunela
+Informatívne prevádzkové značky|191|Rýchlostná cesta
+Informatívne prevádzkové značky|192|Koniec rýchlostnej cesty
+Informatívne prevádzkové značky|193|Diaľnica
+Informatívne prevádzkové značky|194|Koniec diaľnice
+Informatívne prevádzkové značky|195|Zóna s dopravným obmedzením
+Informatívne prevádzkové značky|196|Koniec zóny s dopravným obmedzením
+Informatívne prevádzkové značky|197|Pešia zóna
+Informatívne prevádzkové značky|198|Koniec pešej zóny
+Informatívne prevádzkové značky|199|Školská zóna
+Informatívne prevádzkové značky|200|Koniec školskej zóny
+Informatívne prevádzkové značky|201|Zóna s plateným alebo regulovaným státím
+Informatívne prevádzkové značky|202|Koniec zóny s plateným alebo regulovaným státím
+Informatívne prevádzkové značky|203|Obytná zóna
+Informatívne prevádzkové značky|204|Koniec obytnej zóny
+Informatívne prevádzkové značky|205|Úniková zóna
+Informatívne prevádzkové značky|206|Zmena miestnej úpravy
+Informatívne prevádzkové značky|207|Výstražné zariadenie vypnuté
+Informatívne prevádzkové značky|208|Hmlové body
+Informatívne prevádzkové značky|209|Bezpečná vzdialenosť
+Informatívne prevádzkové značky|210|Všeobecné informácie o dopravných obmedzeniach
+Informatívne smerové značky|211|Návesť pred križovatkou
+Informatívne smerové značky|212|Návesť pred križovatkou
+Informatívne smerové značky|213|Návesť pred križovatkou pre cyklistov
+Informatívne smerové značky|214|Smerová tabuľa pre cyklistov
+Informatívne smerové značky|215|Návesť pred križovatkou
+Informatívne smerové značky|216|Návesť pred križovatkou
+Informatívne smerové značky|217|Návesť pred križovatkou
+Informatívne smerové značky|218|Návesť pred križovatkou
+Informatívne smerové značky|219|Smerová tabuľa
+Informatívne smerové značky|220|Smerová tabuľa
+Informatívne smerové značky|221|Diaľková návesť
+Informatívne smerové značky|222|Diaľková návesť
+Informatívne smerové značky|223|Návesť pred križovatkou
+Informatívne smerové značky|224|Návesť pred kultúrnym alebo turistickým cieľom
+Informatívne smerové značky|225|Návesť pred kultúrnym alebo turistickým cieľom
+Informatívne smerové značky|226|Návesť pred križovatkou s obmedzením
+Informatívne smerové značky|227|Návesť pred križovatkou s obmedzením
+Informatívne smerové značky|228|Návesť pred križovatkou s obmedzením
+Informatívne smerové značky|229|Návesť pred obchádzkou
+Informatívne smerové značky|230|Smerová tabuľa
+Informatívne smerové značky|231|Smerová tabuľa
+Informatívne smerové značky|232|Smerová tabuľa
+Informatívne smerové značky|233|Smerová tabuľa združená
+Informatívne smerové značky|234|Smerová tabuľa združená
+Informatívne smerové značky|235|Smerová tabuľa jedným cieľom
+Informatívne smerové značky|236|Smerová tabuľa s dvoma cieľmi
+Informatívne smerové značky|237|Smerová tabuľa s tromi cieľmi
+Informatívne smerové značky|238|Smerová tabuľa s tromi cieľmi
+Informatívne smerové značky|239|Smerová tabuľa s jedným cieľom, príjazd na rýchlostnú cestu
+Informatívne smerové značky|240|Smerová tabuľa s jedným cieľom
+Informatívne smerové značky|241|Smerová tabuľa pre príjazd k diaľnici
+Informatívne smerové značky|242|Smerová tabuľa pre príjazd k diaľnici
+Informatívne smerové značky|243|Smerová tabuľa pre príjazd k rýchlostnej ceste
+Informatívne smerové značky|244|Smerová tabuľa k miestnemu cieľu
+Informatívne smerové značky|245|Smerová tabuľa k miestnemu cieľu
+Informatívne smerové značky|246|Smerová tabuľa k inému cieľu
+Informatívne smerové značky|247|Smerová tabuľa k turistickému cieľu
+Informatívne smerové značky|248|Smerová tabuľa k inému cieľu
+Informatívne smerové značky|249|Smerová tabuľa ku kultúrnemu cieľu
+Informatívne smerové značky|250|Smerová tabuľa na vyznačenie obchádzky
+Informatívne smerové značky|251|Smerová tabuľa na vyznačenie obchádzky
+Informatívne smerové značky|252|Trvalá obchádzková trasa
+Informatívne smerové značky|253|Diaľnica
+Informatívne smerové značky|254|Cesta I. triedy
+Informatívne smerové značky|255|Cesta I. triedy
+Informatívne smerové značky|256|Cesta II. triedy
+Informatívne smerové značky|257|Cesta III. triedy
+Informatívne smerové značky|258|Medzinárodná trasa
+Informatívne smerové značky|259|Medzinárodná trasa
+Informatívne smerové značky|260|Kilometrovník (cesta I. triedy)
+Informatívne smerové značky|261|Kilometrovník (diaľnica, s telefónom
+Informatívne smerové značky|262|Kilometrovník (diaľnica)
+Informatívne smerové značky|263|Kilometrovník
+Informatívne smerové značky|264|Kilometrovník (rýchlostná cesta)
+Informatívne smerové značky|265|Hranica samosprávneho kraja
+Informatívne smerové značky|266|Hranica samosprávneho kraja
+Informatívne smerové značky|267|Hranica okresu
+Informatívne smerové značky|268|Iný názov
+Informatívne smerové značky|269|Obec
+Informatívne smerové značky|270|Koniec obcec
+Informatívne smerové značky|271|Miestna časť obce
+Informatívne smerové značky|272|Koniec miestnej časti obce
+Informatívne smerové značky|273|Označenie začiatku obce v jazyku národnostnej menšiny
+Informatívne smerové značky|274|Označenie konca obce v jazyku národnostnej menšiny
+Informatívne smerové značky|275|Hraničný priechod
+Informatívne smerové značky|276|Hranica štátu
+Informatívne smerové značky|277|Návesť pred obchádzkou
+Informatívne smerové značky|278|Rýchlostná cesta
+Informatívne iné značky|279|Telefón núdzového volania
+Informatívne iné značky|280|Núdzové volania
+Informatívne iné značky|281|Kontrola rýchlosti
+Informatívne iné značky|282|Telefón
+Informatívne iné značky|283|Hasiaci prístroj
+Informatívne iné značky|284|Prvá pomoc
+Informatívne iné značky|285|Nemocnica
+Informatívne iné značky|286|Informácie
+Informatívne iné značky|287|Rádio
+Informatívne iné značky|288|Zastávka autobusu
+Informatívne iné značky|289|Zastávka trolejbusu
+Informatívne iné značky|290|Zastávka električky
+Informatívne iné značky|291|Čerpacia stanica
+Informatívne iné značky|292|Čerpacia stanica skvapalneného ropného plynu (LPG)
+Informatívne iné značky|293|Čerpacia stanica stlačeného prírodného plynu (CNG)
+Informatívne iné značky|294|Dobíjacia stanica
+Informatívne iné značky|295|Opraváreň
+Informatívne iné značky|296|Hotel alebo motel
+Informatívne iné značky|297|Reštaurácia
+Informatívne iné značky|298|Občerstvenie
+Informatívne iné značky|299|WC
+Informatívne iné značky|300|Odpočívadlo
+Informatívne iné značky|301|Táborisko pre stany
+Informatívne iné značky|302|Táborisko pre obytné prívesy
+Informatívne iné značky|303|Táborisko pre stany a obytné prívesy
+Informatívne iné značky|304|Pláž alebo kúpalisko
+Informatívne iné značky|305|Lyžiarsky vlek
+Informatívne iné značky|306|Sedačková lanovka
+Informatívne iné značky|307|Kabínková lanovka
+Informatívne iné značky|308|Odpočívadlo s komplexnými službami
+Informatívne iné značky|309|Odpočívadlo s obmedzenými službami
+Informatívne iné značky|310|Núdzový východ
+Informatívne iné značky|311|Úhrada mýta
+Informatívne iné značky|312|Koniec úhrady mýta
+Informatívne iné značky|313|Úhrada diaľničnou nálepkou
+Informatívne iné značky|314|Úniková cesta
+Informatívne iné značky|315|Koniec úhrady diaľničnou nálepkou
+Dodatkové tabuľky|316|Úsek platnosti
+Dodatkové tabuľky|317|Celková hmotnosť
+Dodatkové tabuľky|318|Smerová šípka
+Dodatkové tabuľky|319|Začiatok úseku platnosti
+Dodatkové tabuľky|320|Priebeh úseku platnosti
+Dodatkové tabuľky|321|Koniec úseku platnosti
+Dodatkové tabuľky|322|Nepriaznivé poveternostné podmienky
+Dodatkové tabuľky|323|Druh vozidla
+Dodatkové tabuľky|324|Tvar kríženia cesty so železničnou dráhou
+Dodatkové tabuľky|325|Dodatková tabuľka s textom
+Dodatkové tabuľky|326|Dodatková tabuľka s textom, časové ohraničenie
+Dodatkové tabuľky|327|Dodatková tabuľka s textom, pracovné dni
+Dodatkové tabuľky|328|Dodatková tabuľka pre vyhradené parkovanie
+Dodatkové tabuľky|329|Kategória tunela
+Dodatkové tabuľky|330|Dodatková tabuľka na označenie vyhradeného parkovacieho miesta pre osobu so zdravotným postihnutím
+Dodatkové tabuľky|331|Povolený smer jazdy cyklistov
+Dodatkové tabuľky|332|Jazda cyklistov v protismere povolená
+Dodatkové tabuľky|333|Jazda cyklistov v oboch smeroch povolená
+Dodatkové tabuľky|334|Priečna jazda cyklistov
+Dodatkové tabuľky|335|Dĺžka úseku alebo platnosti
+Dodatkové tabuľky|336|Počet
+Dodatkové tabuľky|337|Vzdialenosť
+Dodatkové tabuľky|338|Vzdialenosť
+Dodatkové tabuľky|339|Úsek platnosti
+Vodorovné dopravné značky|340|Cyklistická smerová šípka
+Vodorovné dopravné značky|341|Cyklistická smerová šípka
+Vodorovné dopravné značky|342|Pozdĺžna súvislá čiara
+Vodorovné dopravné značky|343|Dvojitá pozdĺžna súvislá čiara
+Vodorovné dopravné značky|344|Pozdĺžna prerušovaná čiara
+Vodorovné dopravné značky|345|Dvojitá pozdĺžna prerušovaná čiara
+Vodorovné dopravné značky|346|Pozdĺžna súvislá čiara doplnená prerušovanou čiarou
+Vodorovné dopravné značky|347|Vodiaca čiara
+Vodorovné dopravné značky|348|Priečna súvislá čiara
+Vodorovné dopravné značky|349|Priečna súvislá čiara so symbolom Daj prednosť v jazde!
+Vodorovné dopravné značky|350|Priečna súvislá čiara s nápisom STOP
+Vodorovné dopravné značky|351|Priestor pre cyklistov
+Vodorovné dopravné značky|352|Priechod pre chodcov
+Vodorovné dopravné značky|353|Priechod pre chodcov s vodiacim pásom pre nevidiacich
+Vodorovné dopravné značky|354|Priechod pre cyklistov
+Vodorovné dopravné značky|355|Priechod pre cyklistov primknutý k priechodu pre chodcov
+Vodorovné dopravné značky|356|Koridor pre cyklistov
+Vodorovné dopravné značky|357|Nepriame odbočenie doľava
+Vodorovné dopravné značky|358|Smerové šípky
+Vodorovné dopravné značky|359|Smerové šípky
+Vodorovné dopravné značky|360|Predbežné šípky
+Vodorovné dopravné značky|361|Predbežné šípky
+Vodorovné dopravné značky|362|Predbežné šípky
+Vodorovné dopravné značky|363|Parkovacie miesta s kolmým státím
+Vodorovné dopravné značky|364|Hmlové body
+Vodorovné dopravné značky|365|Optická psychologická brzda
+Vodorovné dopravné značky|366|Stanovište TAXI
+Vodorovné dopravné značky|367|Zastávka autobusu, trolejbusu a električky
+Vodorovné dopravné značky|368|Nápisy na vozovke
+Vodorovné dopravné značky|369|Bezpečná vzdialenosť
+Vodorovné dopravné značky|370|Parkovacie miesta so šikmým státím
+Vodorovné dopravné značky|371|Parkovacie miesta s pozdĺžnym státím
+Vodorovné dopravné značky|372|Parkovacie miesta s vyhradeným státím
+Vodorovné dopravné značky|373|Parkovacie miesta s vyhradeným státím
+Vodorovné dopravné značky|374|Parkovacie miesta s vyhradeným státím
+Vodorovné dopravné značky|375|Stanovište TAXI
+Vodorovné dopravné značky|376|Varovný pás od zastávky autobusu, trolejbusu a električky
+Vodorovné dopravné značky|377|Žltá kľukatá čiara
+Vodorovné dopravné značky|378|Žltá súvislá čiara
+Vodorovné dopravné značky|379|Žltá prerušovaná čiara
+Vodorovné dopravné značky|380|Šikmé rovnobežné čiary
+Navrhované dopravné značky|381|Rýchlostná cesta
+Navrhované dopravné značky|382|Cesta pre autobusy
+Navrhované dopravné značky|383|Koniec cesty pre autobusy
+Navrhované dopravné značky|384|Označenie začiatku obce v jazyku národnostnej menšiny
+Navrhované dopravné značky|385|Označenie konca obce v jazyku národnostnej menšiny
+Navrhované dopravné značky|386|Odbočovací majáčik

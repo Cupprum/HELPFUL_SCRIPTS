@@ -1,0 +1,54 @@
+Príkazové značky|104|Striedavé radenie (pravé)
+Príkazové značky|105|Prikázaný smer jazdy priamo
+Príkazové značky|106|Prikázaný smer jazdy vpravo
+Príkazové značky|107|Prikázaný smer jazdy vpravo
+Príkazové značky|108|Prikázaný smer jazdy vľavo
+Príkazové značky|109|Prikázaný smer jazdy vľavo
+Príkazové značky|110|Prikázaný smer jazdy vpravo a vľavo
+Príkazové značky|111|Prikázaný smer jazdy priamo a vpravo
+Príkazové značky|112|Prikázaný smer jazdy priamo a vľavo
+Príkazové značky|113|Prikázaný smer jazdy otáčania
+Príkazové značky|114|Prikázaný smer jazdy obchádzania vpravo
+Príkazové značky|115|Prikázaný smer jazdy obchádzania vľavo
+Príkazové značky|116|Prikázaný smer jazdy obchádzania vpravo a vľavo
+Príkazové značky|117|Kruhový objazd
+Príkazové značky|118|Cestička pre cyklistov
+Príkazové značky|119|Cestička pre chodcov
+Príkazové značky|120|Cestička pre korčuliarov
+Príkazové značky|121|Cestička pre jazdcov na koňoch
+Príkazové značky|122|Cestička pre vyznačených užívateľov
+Príkazové značky|123|Cestička pre vyznačených užívateľov
+Príkazové značky|124|Použiť protisklzové reťaze
+Príkazové značky|125|Najnižšia povolená rýchlosť
+Príkazové značky|126|Iný príkaz
+Príkazové značky|127|Rozsvieť svetlá
+Príkazové značky|128|Koniec cestičky pre cyklistov
+Príkazové značky|129|Koniec cestičky pre chodcov
+Príkazové značky| 130|Koniec cestičky pre jazdcov na koňoch
+Príkazové značky|131|Koniec cestičky pre korčuliarov
+Príkazové značky|132|Koniec cestičky pre vyznačených užívateľov
+Príkazové značky|133|Koniec cestičky pre vyznačených užívateľov
+Príkazové značky|134|Koniec iného príkazu
+Príkazové značky|135|Koniec najnižšej dovolenej rýchlosti
+Príkazové značky|136|Koniec použitia protisklzových reťazí
+Príkazové značky|137|Koniec príkazu
+Príkazové značky|138|Prikázaný smer prepravy vyznačených vozidiel a vecí
+Príkazové značky|139|Usporiadanie jazdných pruhov (jednosmerná premávka)
+Príkazové značky|140|Usporiadanie jazdných pruhov (protismerná premávka)
+Príkazové značky|141|Usporiadanie jazdných pruhov (pripojenie bez pripájacieho pruhu)
+Príkazové značky|142|Usporiadanie jazdných pruhov (pripojenie s pripájacím pruhom)
+Príkazové značky|143|Zvýšenie počtu jazdných pruhov
+Príkazové značky|144|Zníženie počtu jazdných pruhov
+Príkazové značky|145|Zvýšenie počtu jazdných pruhov pre pomalé vozidlá
+Príkazové značky|146|Obmedzenie v jazdných pruhoch
+Príkazové značky|147|Koniec obmedzenia v jazdných pruhoch
+Príkazové značky|148|Vyhradený jazdný pruh
+Príkazové značky|149|Koniec vyhradeného jazdného pruhu
+Príkazové značky|150|Radenie jazdných pruhov pred križovatkou
+Príkazové značky|151|Radenie jazdných pruhov pred križovatkou
+Príkazové značky|152|Radenie jazdných pruhov pred križovatkou
+Príkazové značky|153|Zmena smeru jazdy
+Príkazové značky|154|Obchádzanie električky
+Príkazové značky|155|Zmena smeru jazdy
+Príkazové značky|156|Zmena smeru jazdy
+Príkazové značky|157|Striedavé radenie (ľavé)
