@@ -1,21 +1,23 @@
-class sign:
-    def __init__(self, category, id, name, url):
+class SIGN:
+    def __init__(self, category, s_id, name, url):
         self.category = category
-        self.id = id
+        self.s_id = s_id
         self.name = name
         self.url = url
 
-    def write(self, txt_final):
-        wtw = f"{self.category}, {self.id}, {self.name}, {self.url}"
+    @classmethod
+    def write(cls, txt_final):
+        something = txt_final
+        return something
 
 
-txt_url = open("final_url.txt", "r").readlines()
-txt_nonurl = open("final_nonurl.txt", "r").readlines()
+TXT_URL = open("final_url.txt", "r").readlines()
+TXT_NONURL = open("final_nonurl.txt", "r").readlines()
 
-txt_w = open("final.txt", "w")
+TXT_W = open("final.txt", "w")
 
-for x in range(len(txt_url)):
-    p_first = txt_nonurl[x][:-1]
-    p_second = txt_url[x]
+for x in enumerate(TXT_URL):
+    p_first = TXT_NONURL[x][:-1]
+    p_second = TXT_URL[x]
 
-    txt_w.write(f"{p_first}|{p_second}")
+    TXT_W.write(f"{p_first}|{p_second}")
